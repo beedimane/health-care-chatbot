@@ -1,19 +1,4 @@
-static
-Add files via upload
-last year
-templates
-Add files via upload
-last year
-README.md
-Add files via upload
-last year
-app.py
-Add files via upload
-last year
-chat.py
-Add files via upload
-last year
-intents.json# health-care-chatbot
+
 Initial Setup:
 This repo currently contains the starter files.
 
