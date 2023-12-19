@@ -4,7 +4,6 @@ This repo currently contains the starter files.
 
 Clone repo and create a virtual environment
 
-$ git clone https://github.com/Aafhana/Virtual-Assistant-using-AI.git
 $ cd Virtual-Assistant-using-AI
 $ python3 -m venv venv
 $ . venv/bin/activate
